@@ -1,0 +1,6 @@
+com\scale\todo\repository\TodoRepository.class
+com\scale\todo\model\Task.class
+com\scale\todo\TodoApplication.class
+com\scale\todo\rest\TodoRest.class
+com\scale\todo\service\impl\TodoServiceImpl.class
+com\scale\todo\service\TodoService.class
